@@ -9,4 +9,5 @@ Purpose : Git, GitHub and Repo example
 
 readme file edited in local
 changes done in remote repo file
+Changes done in Remote file to check diff between Fetch and pull
 
